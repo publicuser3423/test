@@ -1,0 +1,7 @@
+# скачать electurm
+wget https://download.electrum.org/4.3.2/electrum-4.3.2-x86_64.AppImage
+
+# ждешь пока все установится
+chmod +x ./*.AppImagey
+
+./electrum-4.3.2-x86_64.AppImage
