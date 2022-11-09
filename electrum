@@ -6,4 +6,4 @@ wget https://download.electrum.org/4.3.2/electrum-4.3.2-x86_64.AppImage
 chmod +x ./*.AppImagey
 
 ./electrum-4.3.2-x86_64.AppImage
-#конец
+#конец!
